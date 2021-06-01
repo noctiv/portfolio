@@ -14,26 +14,26 @@ export default class Projects extends Component {
 						</div>
 						<div className="row">
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-								<div className="project" style={{backgroundImage: 'url(images/img-1.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/img-1.JPG)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 01</a></h3>
-											<span>Website</span>
+											<h3><a href="https://noctiv.github.io/resumo/">Resume Builder</a></h3>
+											<span>Click above to open deployed project.</span>
 											<p className="icon">
 												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+												<span><a href="#"><i className="icon-eye" /> 76</a></span>
+												<span><a href="#"><i className="icon-heart" /> 45</a></span>
 											</p>
 										</div>
 									</div>
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
-								<div className="project" style={{backgroundImage: 'url(images/img-2.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/img-2.JPG)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 02</a></h3>
-											<span>Animation</span>
+											<h3><a href="https://noctiv.github.io/drawing-app/">Drawing/Scribble App</a></h3>
+											<span>Click above to open deployed project.</span>
 											<p className="icon">
 												<span><a href="#"><i className="icon-share3" /></a></span>
 												<span><a href="#"><i className="icon-eye" /> 100</a></span>
@@ -47,8 +47,8 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-3.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 03</a></h3>
-											<span>Illustration</span>
+											<h3><a href="https://mern-exertracker-61121.herokuapp.com/create">Exercise Tracker using MERN stack</a></h3>
+											<span>Click above to open deployed project.</span>
 											<p className="icon">
 												<span><a href="#"><i className="icon-share3" /></a></span>
 												<span><a href="#"><i className="icon-eye" /> 100</a></span>
@@ -58,7 +58,7 @@ export default class Projects extends Component {
 									</div>
 								</div>
 							</div>
-							<div className="col-md-4 animate-box" data-animate-effect="fadeInBottom">
+							{/* <div className="col-md-4 animate-box" data-animate-effect="fadeInBottom">
 								<div className="project" style={{backgroundImage: 'url(images/img-4.jpg)'}}>
 									<div className="desc">
 										<div className="con">
@@ -102,11 +102,11 @@ export default class Projects extends Component {
 										</div>
 									</div>
 								</div>
-							</div>
+							</div> */}
 						</div>
 						<div className="row">
 							<div className="col-md-12 animate-box">
-								<p><a href="#" className="btn btn-primary btn-lg btn-load-more">Load more <i className="icon-reload" /></a></p>
+								<p><a href="https://github.com/noctiv" className="btn btn-primary btn-lg btn-load-more">Load more <i className="icon-reload" /></a></p>
 							</div>
 						</div>
 					</div>

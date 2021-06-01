@@ -27,7 +27,7 @@ export default class About extends Component {
             <div className="row">
             <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
                 <span className="heading-meta">What I do?</span>
-                <h2 className="colorlib-heading">Here are some of my expertise</h2>
+                <h2 className="colorlib-heading">Here are some of my skillset</h2>
             </div>
             </div>
             <div className="row row-pt-md">
@@ -37,19 +37,42 @@ export default class About extends Component {
                     <i className="icon-bulb" />
                 </span>
                 <div className="desc">
-                    <h3>Web Development </h3>
-                    <p>I have experience building websites using JavaScript,React,HTML,CSS.</p>
+                <h3>Data Structures & Algorithms</h3>
+                    <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA.</p>
                 </div>
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
-                <div className="services color-3">
+                <div className="services color-2">
                 <span className="icon">
-                    <i className="icon-phone3" />
+                    <i className="icon-code" />
                 </span>
                 <div className="desc">
-                    <h3>Data Structures & Algorithms</h3>
-                    <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA.</p>
+                    <h3>C++</h3>
+                    <p>I heard about competitive coding in 2nd year. I have solved many problems on Leetcode and also have a CPP Gold Badge on Hackerrank.</p>
+                </div>
+                </div>
+            </div>
+            <div className="col-md-4 text-center animate-box">
+                <div className="services color-4">
+                <span className="icon">
+                    <i className="icon-data" />
+                </span>
+                <div className="desc">
+                    <h3>DBMS</h3>
+                    <p>I have been designing databases and running queries since some time. 
+                        PostgreSQL,MySQL,MongoDB</p>
+                </div>
+                </div>
+            </div>
+            <div className="col-md-4 text-center animate-box">
+                <div className="services color-6">
+                <span className="icon">
+                    <i className="icon-npm" />
+                </span>
+                <div className="desc">
+                    <h3>NodeJS</h3>
+                    <p>I have developed some apps using NodeJS </p>
                 </div>
                 </div>
             </div>
@@ -64,6 +87,54 @@ export default class About extends Component {
                 </div>
                 </div>
             </div>
+            <div className="col-md-4 text-center animate-box">
+                <div className="services color-3">
+                <span className="icon">
+                    <i className="icon-html-five" />
+                </span>
+                <div className="desc">
+                <h3>HTML/CSS</h3>
+                    <p>I have some experience building websites using HTML,CSS.</p>  
+                </div>
+                </div>
+            </div>
+            <div className="col-md-4 text-center animate-box">
+                <div className="services color-6">
+                <span className="icon">
+                    <i className="icon-code" />
+                </span>
+                <div className="desc">
+                    <h3>JavaScript</h3>
+                    <p>I made this site using it.</p>
+                </div>
+                </div>
+            </div>
+            <div className="col-md-4 text-center animate-box">
+                <div className="services color-0">
+                <span className="icon">
+                    <i className="icon-server" />
+                </span>
+                <div className="desc">
+                    <h3>Computer Networking</h3>
+                    <p>I know the basics of computer networking.</p>
+                </div>
+                </div>
+            </div>
+            <div className="col-md-4 text-center animate-box">
+                <div className="services color-2">
+                <span className="icon">
+                    <i className="icon-target3" />
+                </span>
+                <div className="desc">
+                    <h3>ReactJs</h3>
+                    <p>I have been developing websites using React since some time.</p>
+                </div>
+                </div>
+            </div>
+            
+           
+            
+            
             {/*
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-2">

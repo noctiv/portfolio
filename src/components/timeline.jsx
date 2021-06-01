@@ -15,7 +15,17 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
-                  
+                <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-1">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Intern at PiktorLabs Inc.<span>2020-2020</span></h2>
+                        <p>It was a work from home 2 months long internship.I learned a lot about how applications goes into production at large scale. I was involved in development and testing of React Native applications. </p>
+                      </div>
+                    </div>
+                  </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-4">
