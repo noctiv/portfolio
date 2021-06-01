@@ -49,7 +49,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>C++</h3>
-                    <p>I heard about competitive coding in 2nd year. I have solved many problems on Leetcode and also have a CPP Gold Badge on Hackerrank.</p>
+                    <p>I have solved many problems on Leetcode and also have C++ gold badge on Hackerrank </p>
                 </div>
                 </div>
             </div>
@@ -94,7 +94,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                 <h3>HTML/CSS</h3>
-                    <p>I have some experience building websites using HTML,CSS.</p>  
+                    <p>I remember some tags.</p>  
                 </div>
                 </div>
             </div>
@@ -127,7 +127,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>ReactJs</h3>
-                    <p>I have been developing websites using React since some time.</p>
+                    <p>I have been developing websites using React</p>
                 </div>
                 </div>
             </div>
